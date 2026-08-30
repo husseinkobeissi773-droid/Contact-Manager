@@ -26,3 +26,4 @@ This project was developed using:
 - **CSS** – For designing and styling the interface
 - **JavaScript** – For implementing the application logic and interactions
 
+## In this version you must start with "admin" as user name and "123" as password
