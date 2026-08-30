@@ -1,0 +1,36 @@
+body{
+    background-color: #eee;
+}
+h1{
+    text-align: center;
+}
+.add{
+      text-align: center;
+  background-color: aquamarine;
+  width: 700px;
+  height: auto;
+  padding-bottom: 50px;
+    padding-top: 50px;
+
+  margin-left: 320px
+}
+input{
+    
+  border: 1px solid black;  
+  border-radius: 2px;
+  font-size: 20px;
+  width: 50%;
+}
+button{
+      background-color: yellowgreen;
+  border: 1px solid black;  
+  border-radius: 40px;
+  font-size: 20px;
+  width: 60%;
+}
+.result{
+    background-color: #eee;
+    width: 50%;
+    text-align: center;
+    margin-left: 170px;
+}
